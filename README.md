@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 <!-- PROFILE HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Nethmi+Chethana;GDSE+75+Undergraduate+at+IJSE;Aspiring+Software+Engineer;I+Love+Building+Software+💻✨" alt="Typing SVG" />
-</p>
-
 <!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Nethmi+Chethana;GDSE+75+Undergraduate+at+IJSE;Aspiring+Software+Engineer;I+Love+Building+Software+💻✨" alt="Typing SVG" />
 </p> -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
+</p> 
 
 ---
 
