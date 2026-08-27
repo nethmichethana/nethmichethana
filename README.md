@@ -13,7 +13,7 @@
 ## 🌷 About Me
 
 ✨ **Name:** Nethmi Chethana  
-🎓 **Program:** GDSE 75  
+🎓 **Program:** HDSE 75  
 🏫 **Institute:** IJSE  
 💻 **Field:** Software Engineering  
 🌱 **Currently Learning:** Java, JavaFX, MySQL, Web Development  
