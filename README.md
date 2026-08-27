@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!-- PROFILE HEADER -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Nethmi+Chethana;GDSE+75+Undergraduate+at+IJSE;Aspiring+Software+Engineer;I+Love+Building+Software+💻✨)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Nethmi+Chethana;HDSE+75+Undergraduate+at+IJSE;Aspiring+Software+Engineer;I+Love+Building+Software+💻✨)
 
 
 <p align="center">
